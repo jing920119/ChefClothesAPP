@@ -34,6 +34,10 @@
 >
 >(似乎也能在這邊改選頁面的圖標)
 >
+>![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/88ceec2f-2221-40ea-a5fd-729758a3d734)
+>
+>都忘了values資料夾裡面的strings.xml也要新增一下頁面名稱不然會出錯
+
 
 ###  步驟3
 >
