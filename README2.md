@@ -47,6 +47,13 @@
 >![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/42bfd961-fc8d-4ce9-8e71-ab4cb1662ad3)
 
 >拉好了 但要改一下內程式碼
+>
+>當我沒說 物件需要完全限制 不然無法啟用
+>
+>![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/1d4c41c1-a543-41eb-b4f7-700e63070c7b)
+>
+>目前還是一團亂112/11/25 20:17
+
 
 
 
