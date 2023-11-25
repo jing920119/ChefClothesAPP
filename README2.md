@@ -44,7 +44,9 @@
 >
 >我要來新增登入畫面的那些格子了
 
->
+>![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/42bfd961-fc8d-4ce9-8e71-ab4cb1662ad3)
+
+>拉好了 但要改一下內程式碼
 
 
 
