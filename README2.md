@@ -26,6 +26,18 @@
 >![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/6c6421b0-f5f0-4b39-9423-a1d1d248f852)
 >
 >layout也要新增一個fragment_###.xmml的檔案裏面@+id/text_### 要修改成自己的
+>
+>![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/30e94036-5c6b-40ef-9edd-e31d2d40900a)
+>menu資料夾下面的activity_main_drawer.xml也要新增一個item
+>
+>並且把裡面的一些名稱改成要新增頁面的命名
+>
+>(似乎也能在這邊改選頁面的圖標)
+>
+
+###  步驟3
+>
+>
 
 
 
