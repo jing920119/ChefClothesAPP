@@ -40,7 +40,10 @@
 
 
 ###  步驟3
+>![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/1b6d2e0b-34a9-4138-b10f-9e8de09595a7)
 >
+>我要來新增登入畫面的那些格子了
+
 >
 
 
