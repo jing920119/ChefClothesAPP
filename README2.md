@@ -19,5 +19,13 @@
 >
 >MainActivity裡面要在OnClick裡面新增頁面的nav
 >
+>![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/8404ee1a-2fce-42a7-92c7-d6ab77778c57)
 >
+>這邊通常也會需要新增一個drawable的ic_menu_###.xml
+>
+>![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/6c6421b0-f5f0-4b39-9423-a1d1d248f852)
+>
+>layout也要新增一個fragment_###.xmml的檔案裏面@+id/text_### 要修改成自己的
+
+
 
