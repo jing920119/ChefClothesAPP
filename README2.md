@@ -1,11 +1,11 @@
-###  步驟1
+###  Day1
 >首先我想先在原本AndroidStudio裡面選模板
 >
 >![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/845c494d-70a9-4488-a9eb-011b9141b2df)
 >
 >，然後修改成我要的樣子和新增功能
 
-###  步驟2
+###  Day2
 >我發現要新增一個登入的頁面需要改很多地方
 >
 >
@@ -39,7 +39,7 @@
 >都忘了values資料夾裡面的strings.xml也要新增一下頁面名稱不然會出錯
 
 
-###  步驟3
+###  Day3
 >![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/1b6d2e0b-34a9-4138-b10f-9e8de09595a7)
 >
 >我要來新增登入畫面的那些格子了
@@ -53,6 +53,22 @@
 >![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/1d4c41c1-a543-41eb-b4f7-700e63070c7b)
 >
 >目前還是一團亂112/11/25 20:17
+
+###  Day4
+>![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/994edbe5-9936-4f4d-9398-03bc51f38298)
+>
+>今天繼續弄介面
+>
+>我發現改這邊會動到
+>
+![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/8cfa27c5-6c8a-4453-8e0f-ce83e6795f88)
+
+>所以如果有另外要改的話要注意全面的程式有沒有問題
+>
+>設定漸層背景有參考這個 https://lbt95.pixnet.net/blog/post/41644687-%5Bandroid%5D-漸層色背景
+>效果
+>![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/8abbe07e-641d-4560-b90e-d2e4734aae12)
+
 
 
 
