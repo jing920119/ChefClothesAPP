@@ -68,6 +68,19 @@
 >設定漸層背景有參考這個 https://lbt95.pixnet.net/blog/post/41644687-%5Bandroid%5D-漸層色背景
 >效果
 >![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/8abbe07e-641d-4560-b90e-d2e4734aae12)
+>
+>![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/cad93be8-be75-4e9f-9f32-6aed0cfcdafb)
+>想在login的按鈕上新增一些功能
+>要把按鈕設好ID![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/00678a7f-cfed-4a99-8306-de939b886cb1)
+>
+>然後去到
+>
+>![image](https://github.com/jing920119/ChefClothesAPP/assets/144665311/92f34656-64cf-4e49-8e44-4dce2c3e623c)
+>
+>底下在onCreateView 這邊新增程式
+
+
+
 
 
 
